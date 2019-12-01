@@ -1,3 +1,7 @@
+'''Nesse jogo, você deve espalhar aleatoriamente 4 vezes o nome do IFPB, em um tabuleiro de tamanho 6 X 6.
+O jogo consiste em obter 10 palpites (linha e coluna) do usuário. Ao final, exiba quantos pontos ele fez.
+Lembre-se de exibir o tabuleiro sempre que o usuário der um palpite.'''
+
 
 # versão  sem utilizar a biblioteca random do python. Em construção....
 
