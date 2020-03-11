@@ -1,7 +1,7 @@
-from agenciab import Fila
+from agenciab import Clientes
 
 def main():
-    filaTeste = Fila()
+    filaTeste = Clientes()
 
     filaTeste.inserirDado("IFPB")
     filaTeste.inserirDado("ED")
