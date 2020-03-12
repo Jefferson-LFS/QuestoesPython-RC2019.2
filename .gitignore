@@ -1,4 +1,6 @@
 estudo_poo/atividade_poo/.idea
+.idea/
 estudo_poo/.idea
 estudo_poo/atividade_poo/__pycache__/
-batalha_naval.py
+*.py[cod]
+*$py.class

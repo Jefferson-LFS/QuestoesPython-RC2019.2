@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3caec681-c7ae-4906-a2d7-d59cd53bcc6e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividade_poo/agenciab.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividade_poo/agenciab_main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fila_poo/fila.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fila_poo/fila_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fila_poo/principal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fila_poo/principal_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilha_poo/pilha.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pilha_poo/principal.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +30,29 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.principal">
+  <component name="RunManager" selected="Python.editor_main">
+    <configuration name="editor_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="estudo_ED" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha/editor_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="principal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="atividade_poo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.editor_main" />
         <item itemvalue="Python.principal_1" />
         <item itemvalue="Python.principal" />
       </list>
@@ -106,6 +122,7 @@
       <workItem from="1583889538808" duration="3910000" />
       <workItem from="1583965864808" duration="1600000" />
       <workItem from="1584047457914" duration="575000" />
+      <workItem from="1584048034442" duration="770000" />
     </task>
     <servers />
   </component>
@@ -125,22 +142,22 @@
       <screen x="0" y="27" width="1280" height="693" />
     </state>
     <state x="423" y="131" width="424" height="482" key="FileChooserDialogImpl/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048029756" />
-    <state width="1234" height="160" key="GridCell.Tab.0.bottom" timestamp="1583889946771">
+    <state width="1234" height="160" key="GridCell.Tab.0.bottom" timestamp="1584048167169">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="160" key="GridCell.Tab.0.bottom/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1583889946771" />
-    <state width="1234" height="160" key="GridCell.Tab.0.center" timestamp="1583889946771">
+    <state width="1234" height="160" key="GridCell.Tab.0.bottom/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048167169" />
+    <state width="1234" height="160" key="GridCell.Tab.0.center" timestamp="1584048167169">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="160" key="GridCell.Tab.0.center/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1583889946771" />
-    <state width="1234" height="160" key="GridCell.Tab.0.left" timestamp="1583889946771">
+    <state width="1234" height="160" key="GridCell.Tab.0.center/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048167169" />
+    <state width="1234" height="160" key="GridCell.Tab.0.left" timestamp="1584048167169">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="160" key="GridCell.Tab.0.left/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1583889946771" />
-    <state width="1234" height="160" key="GridCell.Tab.0.right" timestamp="1583889946771">
+    <state width="1234" height="160" key="GridCell.Tab.0.left/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048167169" />
+    <state width="1234" height="160" key="GridCell.Tab.0.right" timestamp="1584048167169">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="160" key="GridCell.Tab.0.right/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1583889946771" />
+    <state width="1234" height="160" key="GridCell.Tab.0.right/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048167169" />
     <state x="300" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1584047463582">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
@@ -151,5 +168,6 @@
     <SUITE FILE_PATH="coverage/estudo_poo$principal.coverage" NAME="principal Coverage Results" MODIFIED="1583786676428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fila_poo" />
     <SUITE FILE_PATH="coverage/estudo_poo$agenciab_main.coverage" NAME="agenciab_main Coverage Results" MODIFIED="1583889915959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/atividade_poo" />
     <SUITE FILE_PATH="coverage/estudo_poo$principal_1.coverage" NAME="principal_1 Coverage Results" MODIFIED="1583788194163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fila_poo" />
+    <SUITE FILE_PATH="coverage/estudo_ED$editor_main.coverage" NAME="editor_main Coverage Results" MODIFIED="1584048118436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
   </component>
 </project>
