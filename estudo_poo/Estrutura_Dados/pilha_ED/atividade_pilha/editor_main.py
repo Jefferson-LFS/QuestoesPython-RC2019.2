@@ -1,20 +1,20 @@
-from pilha import Pilha
+from stack import Stack
 
 def main():
-    pilhaTeste = Pilha()
+    satck_editor = Stack()
     comando = 'i'
 
     while comando != 'q':
         nome  = input("insira o texto: ")
         for n in nome:
-            pilhaTeste.push(n)
+            satck_editor.push(n)
         comando = input("Digite o comando: ")
         if '#' == comando:
-            pilhaTeste.pop()
+            satck_editor.pop()
 
         if '@' == comando:
-           pilhaTeste.esvaziar()
-        print(pilhaTeste.getPilha())
+           satck_editor.size()
+        print(satck_editor.getStack())
         print("Digite 'q' para sair!")
 
 

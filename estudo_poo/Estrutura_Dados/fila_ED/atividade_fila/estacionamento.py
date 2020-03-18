@@ -1,20 +1,18 @@
-class Caixa:
+class Estacinamento:
     def __init__ (self):
         self.dados = []
 
     def getFila(self):
         return self.dados
 
-    def inserirCliente(self, novoValor):
+    def inserirDado(self, novoValor):
         self.dados.append(novoValor)
-
-
-    def removerCliente(self):
-        self.dados.pop(0)
 
     def removerPosicao(self, valor):
         pos = self.dados.index(valor)
-        for i in range(0, pos+1):
+        for i in range(0, pos):
+            self.dados.append(self.dados[i])
+        for i in range(0, pos + 1):
             self.dados.pop(0)
 
     def tamanhoFila(self):
