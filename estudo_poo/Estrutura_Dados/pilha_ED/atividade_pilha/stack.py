@@ -1,5 +1,5 @@
 class Stack:
-    def __init__ (self):
+    def __init__(self):
         self.__data = []
 
     def getStack(self):
@@ -17,7 +17,11 @@ class Stack:
     def peek(self):
         return self.__data[len(self.__data) - 1]
 
-    def size(self):
+    def EmptySatck(self):
         while (len(self.__data) != 0):
             self.__data.pop()
+
+    def size(self):
+        return len(self.__data)
+
 
