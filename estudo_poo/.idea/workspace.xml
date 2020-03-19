@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3caec681-c7ae-4906-a2d7-d59cd53bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha/stack_palindroma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha/stack_transfer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha/stack.py" afterDir="false" />
-    </list>
+    <list default="true" id="3caec681-c7ae-4906-a2d7-d59cd53bcc6e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +39,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.stack_palindroma">
+  <component name="RunManager" selected="Python.stack_transfer">
     <configuration name="agenciab_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="estudo_ED" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,8 +152,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.stack_palindroma" />
         <item itemvalue="Python.stack_transfer" />
+        <item itemvalue="Python.stack_palindroma" />
         <item itemvalue="Python.agenciab_main" />
         <item itemvalue="Python.estacionamento_main" />
         <item itemvalue="Python.editor_main" />
@@ -190,7 +185,7 @@
       <workItem from="1584390391606" duration="7358000" />
       <workItem from="1584481917704" duration="11294000" />
       <workItem from="1584528499371" duration="8020000" />
-      <workItem from="1584619320873" duration="24231000" />
+      <workItem from="1584619320873" duration="24507000" />
     </task>
     <servers />
   </component>
@@ -214,31 +209,31 @@
       <screen x="0" y="27" width="1280" height="693" />
     </state>
     <state x="423" y="131" width="424" height="482" key="FileChooserDialogImpl/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584048029756" />
-    <state width="1234" height="145" key="GridCell.Tab.0.bottom" timestamp="1584649761452">
+    <state width="1234" height="145" key="GridCell.Tab.0.bottom" timestamp="1584650616537">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="145" key="GridCell.Tab.0.bottom/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584649761452" />
+    <state width="1234" height="145" key="GridCell.Tab.0.bottom/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584650616537" />
     <state width="1234" height="160" key="GridCell.Tab.0.bottom/0.27.2560.693@0.27.2560.693" timestamp="1584053550373" />
     <state width="1320" height="219" key="GridCell.Tab.0.bottom/0.27.2646.741@0.27.2646.741" timestamp="1584070082858" />
     <state width="1234" height="199" key="GridCell.Tab.0.bottom/1280.0.1280.720/0.27.1280.693@0.27.1280.693" timestamp="1584399891374" />
-    <state width="1234" height="145" key="GridCell.Tab.0.center" timestamp="1584649761452">
+    <state width="1234" height="145" key="GridCell.Tab.0.center" timestamp="1584650616537">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="145" key="GridCell.Tab.0.center/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584649761452" />
+    <state width="1234" height="145" key="GridCell.Tab.0.center/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584650616537" />
     <state width="1234" height="160" key="GridCell.Tab.0.center/0.27.2560.693@0.27.2560.693" timestamp="1584053550372" />
     <state width="1320" height="219" key="GridCell.Tab.0.center/0.27.2646.741@0.27.2646.741" timestamp="1584070082858" />
     <state width="1234" height="199" key="GridCell.Tab.0.center/1280.0.1280.720/0.27.1280.693@0.27.1280.693" timestamp="1584399891374" />
-    <state width="1234" height="145" key="GridCell.Tab.0.left" timestamp="1584649761451">
+    <state width="1234" height="145" key="GridCell.Tab.0.left" timestamp="1584650616537">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="145" key="GridCell.Tab.0.left/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584649761451" />
+    <state width="1234" height="145" key="GridCell.Tab.0.left/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584650616537" />
     <state width="1234" height="160" key="GridCell.Tab.0.left/0.27.2560.693@0.27.2560.693" timestamp="1584053550372" />
     <state width="1320" height="219" key="GridCell.Tab.0.left/0.27.2646.741@0.27.2646.741" timestamp="1584070082858" />
     <state width="1234" height="199" key="GridCell.Tab.0.left/1280.0.1280.720/0.27.1280.693@0.27.1280.693" timestamp="1584399891374" />
-    <state width="1234" height="145" key="GridCell.Tab.0.right" timestamp="1584649761452">
+    <state width="1234" height="145" key="GridCell.Tab.0.right" timestamp="1584650616537">
       <screen x="0" y="27" width="1280" height="693" />
     </state>
-    <state width="1234" height="145" key="GridCell.Tab.0.right/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584649761452" />
+    <state width="1234" height="145" key="GridCell.Tab.0.right/0.27.1280.693/1280.0.1280.720@0.27.1280.693" timestamp="1584650616537" />
     <state width="1234" height="160" key="GridCell.Tab.0.right/0.27.2560.693@0.27.2560.693" timestamp="1584053550373" />
     <state width="1320" height="219" key="GridCell.Tab.0.right/0.27.2646.741@0.27.2646.741" timestamp="1584070082858" />
     <state width="1234" height="199" key="GridCell.Tab.0.right/1280.0.1280.720/0.27.1280.693@0.27.1280.693" timestamp="1584399891374" />
@@ -281,7 +276,7 @@
     <SUITE FILE_PATH="coverage/estudo_ED$pilha_s.coverage" NAME="stack_s Coverage Results" MODIFIED="1584498290514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
     <SUITE FILE_PATH="coverage/estudo_ED$principal__1_.coverage" NAME="principal (1) Coverage Results" MODIFIED="1584496392021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/fila_ED" />
     <SUITE FILE_PATH="coverage/estudo_poo$principal_1.coverage" NAME="principal_1 Coverage Results" MODIFIED="1583788194163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fila_poo" />
-    <SUITE FILE_PATH="coverage/estudo_ED$stack_transfer.coverage" NAME="stack_transfer Coverage Results" MODIFIED="1584649314487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
+    <SUITE FILE_PATH="coverage/estudo_ED$stack_transfer.coverage" NAME="stack_transfer Coverage Results" MODIFIED="1584650579296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
     <SUITE FILE_PATH="coverage/estudo_ED$stack_asc.coverage" NAME="stack_transfer Coverage Results" MODIFIED="1584537767297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />
     <SUITE FILE_PATH="coverage/estudo_ED$estacionamento_main.coverage" NAME="estacionamento_main Coverage Results" MODIFIED="1584529362518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/fila_ED/atividade_fila" />
     <SUITE FILE_PATH="coverage/estudo_ED$editor_main.coverage" NAME="editor_main Coverage Results" MODIFIED="1584499110922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Estrutura_Dados/pilha_ED/atividade_pilha" />

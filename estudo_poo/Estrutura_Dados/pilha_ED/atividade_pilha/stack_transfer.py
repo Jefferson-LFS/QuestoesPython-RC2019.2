@@ -41,8 +41,6 @@ def main():
     elif modo == 'b':
         print("4.b - Usando variáves adicionais: ")
         print(satckTransfer_b(stack_1, stack_2))
-    elif modo != 'a' or modo != 'b':
-        modo = input("valor inválido! Digiite novamente: ")
 
 
 main()
