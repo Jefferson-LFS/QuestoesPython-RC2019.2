@@ -1,47 +1,50 @@
 from stack import Stack
 
 
-def Inserttack(value,stack1):
+def satckBin(value, stack1, stack2):
+    while value != 0:
+        modulu = value % 2
+        stack1.push(modulu)
+        value //= 2
 
-    for v in value:
-        stack1.push(v)
-    return stack1.getStack()
-
-def satckTransfer_a(stack1, stack2, stack3):
     while not stack1.isEmpty():
         stack2.push(stack1.pop())
-    if not stack2.isEmpty():
-        for i in range(stack2.size()):
-            stack3.push(stack2.pop())
-    return stack3.getStack()
+    return stack2.getStack()
 
-def satckTransfer_b(stack1, stack2,):
-    var_str = str()
+def satckHex(value, stack1, stack2, dict):
+    while value != 0:
+        modulu = value % 16
+        if modulu in dict:
+            stack1.push(dict[modulu])
+        else:
+         stack1.push(modulu)
+        value //= 16
+
     while not stack1.isEmpty():
-        var_str += stack1.pop()
-    for i in range(1, len(var_str)+1):
-        stack2.push(var_str[-i])
+        stack2.push(stack1.pop())
     return stack2.getStack()
 
 
 def main():
-    stack_1 = Stack()
-    stack_2 = Stack()
-    stack_3 = Stack()
+    stack1 = Stack()
+    stack2 = Stack()
+    dict = {
+        10: 'A',
+        11: 'B',
+        12: 'C',
+        13: 'D',
+        14: 'E',
+        15: 'F'}
+    num_dec = int(input("Insira um valor em decimal de (2-9) ou (11-27): "))
 
-
-
-    value  = input("Insira 4 valores: ")
-    Inserttack(value, stack_1)
-    modo = input("Digite qual o modo de transfêrencia da pilha, a ou b e q para sair: ")
-    if modo == 'a':
-        print("4.a - Usando uma pilha: ")
-        print(satckTransfer_a(stack_1, stack_2,stack_3))
-
-    elif modo == 'b':
-        print("4.b - Usando variáves adicionais: ")
-        print(satckTransfer_b(stack_1, stack_2))
-
+    while (num_dec == 10) or (num_dec < 2 or num_dec > 27):
+        print("Voce digitou errado!")
+        num_dec = int(input("Insira um valor em decimal de (2-9) ou (11-27): "));
+    print()
+    if num_dec >= 2  and num_dec <= 9:
+        print(f"Valor em binário: {satckBin(num_dec, stack1, stack2)}")
+    elif num_dec >= 11  and num_dec <= 27:
+        print(f"Valor em hexadecimal: {satckHex(num_dec, stack1, stack2, dict)}")
 
 main()
 
