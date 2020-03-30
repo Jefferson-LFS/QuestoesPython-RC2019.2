@@ -2,7 +2,7 @@ from stack import Stack
 from queue import Queue
 
 
-def usestack(value,stack1, stack2):
+def useStack(value,stack1, stack2):
     for v in value:
         stack1.push(v)
 
@@ -11,7 +11,7 @@ def usestack(value,stack1, stack2):
     return stack2.getStack()
 
 
-def usequeue(value,stack, queue):
+def useQueue(value,stack, queue):
     for v in value:
         stack.push(v)
 
@@ -29,7 +29,7 @@ def main():
     value  = input("Insira 4 valores: ")
 
     print("2.a - Usando pilha:")
-    print(usestack(value, stack_1, stack_2))
+    print(useStack(value, stack_1, stack_2))
     print("2.b - Usando fila:")
-    print(usequeue(value, stack_1, queue_1))
+    print(useQueue(value, stack_1, queue_1))
 main()

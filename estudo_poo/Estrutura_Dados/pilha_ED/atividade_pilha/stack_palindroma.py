@@ -1,7 +1,7 @@
 from stack import Stack
 
 
-def stack_without_space(phrase, stack1,stack2):
+def stack_without_space(phrase, stack1, stack2):
     for p in phrase:
         if p != " ":
             stack1.push(p)

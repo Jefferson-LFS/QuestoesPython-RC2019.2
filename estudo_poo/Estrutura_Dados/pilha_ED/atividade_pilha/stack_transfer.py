@@ -1,7 +1,7 @@
 from stack import Stack
 
 
-def Inserttack(value,stack1):
+def insertStack(value, stack1):
 
     for v in value:
         stack1.push(v)
@@ -32,7 +32,7 @@ def main():
 
 
     value  = input("Insira 4 valores: ")
-    Inserttack(value, stack_1)
+    insertStack(value, stack_1)
     modo = input("Digite qual o modo de transfêrencia da pilha, a ou b e q para sair: ")
     if modo == 'a':
         print("4.a - Usando uma pilha: ")
