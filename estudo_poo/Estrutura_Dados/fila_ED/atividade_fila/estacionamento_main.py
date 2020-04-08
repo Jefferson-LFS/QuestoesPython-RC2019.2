@@ -24,10 +24,10 @@ def metodos(cmd, carros):
         cmd = testecmd(cmd)
         if cmd == "I":
             carros.inserirDado(input("Informe o número da placa (INSERÇÃO): "))
-        if cmd == 'S':
+        elif cmd == 'S':
             print(carros.getFila())
 
-        if cmd == 'R':
+        elif cmd == 'R':
             if carros.tamanhoFila() != 0:
                 carros.removerPosicao(input("Informe o número da placa (REMOÇÃO): "))
             else:

@@ -17,4 +17,7 @@ class Queue:
             self.data.pop(0)
 
     def sizeQueue(self):
-        return len(self.dados)
+        return len(self.data)
+
+    def isEmpty(self):
+        return self.data == []
