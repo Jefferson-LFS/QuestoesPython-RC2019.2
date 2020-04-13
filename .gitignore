@@ -5,10 +5,7 @@ estudo_poo/.idea/workspace.xml
 #estudo_poo/atividade_poo/__pycache__/
 *.py[cod]
 *$py.class
-estudo_poo/Estrutura_Dados/fila_ED/
-estudo_poo/Estrutura_Dados/fila_ED/atividade_fila/agenciab_main.py
-estudo_poo/Estrutura_Dados/fila_ED/atividade_fila/estacionamento.py
-estudo_poo/Estrutura_Dados/fila_ED/atividade_fila/estacionamento_main.py
-estudo_poo/Estrutura_Dados/fila_ED/atividade_fila/hospital.py
-estudo_poo/Estrutura_Dados/fila_ED/atividade_fila/hospital_main.py
+estudo_poo/Estrutura_Dados/fila_ED/main_queues.py
+estudo_poo/Estrutura_Dados/fila_ED/queue.py
+
 
